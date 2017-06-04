@@ -1,0 +1,9 @@
+20170604 -- River Wang
+1. Project commit.
+2. 6 shaders for tutorial:
+    - FixedVertexLit.shader: fixed-funcioned vertex lighting, old shaderlab format.
+    - FlatColor.shader: uniformly filled by the input color.
+    - Normals.shader: visulaize interpolated normal vectors(x, y, z => r, g, b).
+    - UVs.shader: visualize interpolated texel UV.
+    - Clipspace.shader: clip space coordinate visualization.
+    - ViewDepth.shader: view space depth visualization.
